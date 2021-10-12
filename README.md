@@ -10,6 +10,7 @@ Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w 
 </center>
 
 ## Programowanie
+
 |=Pierwszy raz z programowaniem spotakłem się w technikum mechatronicznym gdzie uczyliśmy się C++. Zdobytą wiedzę wykorzystywaliśmy programując wyświetlacze LCD, plotery czy małe obrabiarki. Udało się nawet zrobić skaner tworząc obrazy 3D. Uczyliśmy się również programować sterowniki PLC. To była świetna zabawa i ścigaliśmy się z kolegami kto zrobi ciekawszy projekt. Na studiach wybrałem jednak kierunek Elektrotechnika, tam również ponownie spotkałem się C++, którego wykorzystywaliśmy w programie Matlab. Z perspektywy czasu żałuję, że już wtedy nie podjąłem na poważnie tematu programowania. Na szczęście po przeprowadzce z Krakowa do Rzeszowa spotkałem kolegów programistów, którzy mnie usilnie namawiali do zmiany branży i tak podjąłem kurs w Software Development Academy.=|
 
 Lubię ułatwiać sobie życie na ile to możliwe. W każdej dotychczasowej pracy wprowadzałem ciągłe zmiany żeby to systemy i programy pracowały za mnie. Wszystko co marnowało czas i było nie potrzebne, zmieniałem. Czasami wystarczy zmienić wygląd okna, zamienić miejscami kolumny czy filtrowanie i już można praca jest wygodniejsza.
@@ -53,11 +54,11 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 
 ## Moje projekty
 
-||* Symulator Mundialu wraz z bukmacherem (comming soon)
+||* Symulator Mundialu wraz z bukmacherem (comming soon)||
 * Gobblety (comming soon)
 * Bitwa o Tortugę (comming soon)
 * Kółko krzyżyk 9X9 (comming soon)
-* Timeline (comming soon)||
+* Timeline (comming soon)
 
 ## Technologie
 
