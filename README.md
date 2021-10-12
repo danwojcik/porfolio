@@ -11,7 +11,9 @@ Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w 
 
 ## Programowanie
 
-|=Pierwszy raz z programowaniem spotakłem się w technikum mechatronicznym gdzie uczyliśmy się C++. Zdobytą wiedzę wykorzystywaliśmy programując wyświetlacze LCD, plotery czy małe obrabiarki. Udało się nawet zrobić skaner tworząc obrazy 3D. Uczyliśmy się również programować sterowniki PLC. To była świetna zabawa i ścigaliśmy się z kolegami kto zrobi ciekawszy projekt. Na studiach wybrałem jednak kierunek Elektrotechnika, tam również ponownie spotkałem się C++, którego wykorzystywaliśmy w programie Matlab. Z perspektywy czasu żałuję, że już wtedy nie podjąłem na poważnie tematu programowania. Na szczęście po przeprowadzce z Krakowa do Rzeszowa spotkałem kolegów programistów, którzy mnie usilnie namawiali do zmiany branży i tak podjąłem kurs w Software Development Academy.=|
+|=Pierwszy raz z programowaniem spotakłem się w technikum mechatronicznym gdzie uczyliśmy się C++. Zdobytą wiedzę wykorzystywaliśmy programując wyświetlacze LCD, plotery czy=| 
+
+małe obrabiarki. Udało się nawet zrobić skaner tworząc obrazy 3D. Uczyliśmy się również programować sterowniki PLC. To była świetna zabawa i ścigaliśmy się z kolegami kto zrobi ciekawszy projekt. Na studiach wybrałem jednak kierunek Elektrotechnika, tam również ponownie spotkałem się C++, którego wykorzystywaliśmy w programie Matlab. Z perspektywy czasu żałuję, że już wtedy nie podjąłem na poważnie tematu programowania. Na szczęście po przeprowadzce z Krakowa do Rzeszowa spotkałem kolegów programistów, którzy mnie usilnie namawiali do zmiany branży i tak podjąłem kurs w Software Development Academy.
 
 Lubię ułatwiać sobie życie na ile to możliwe. W każdej dotychczasowej pracy wprowadzałem ciągłe zmiany żeby to systemy i programy pracowały za mnie. Wszystko co marnowało czas i było nie potrzebne, zmieniałem. Czasami wystarczy zmienić wygląd okna, zamienić miejscami kolumny czy filtrowanie i już można praca jest wygodniejsza.
 Nie lubię chaosu dlatego staram się żeby wszystko dookoła było poukładane i zorganizowane, choć nie mam problemu ze spontanicznością to nie zostawiam niczego przypadkowi. Wakację? przygotowana wczęśniej lista atrakcji i zabytków, które warto zobaczyć. Biurko? Na wierzchu tylko to co potrzbne. Skrzynka z narzędziami? Wszystko poukładane i pogrupowane. Nawet żona się śmieje, że nie zjem dopóki nie poukładam naczyć, ale lubię takie podejście, to mi pomaga w codziennym życiu.
@@ -54,7 +56,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 
 ## Moje projekty
 
-||* Symulator Mundialu wraz z bukmacherem (comming soon)||
+* Symulator Mundialu wraz z bukmacherem (comming soon)
 * Gobblety (comming soon)
 * Bitwa o Tortugę (comming soon)
 * Kółko krzyżyk 9X9 (comming soon)
