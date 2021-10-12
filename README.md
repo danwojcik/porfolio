@@ -20,7 +20,7 @@ Chcąc jak nalepiej pryzgotować się do przyszłem pracy w branży IT podjąłe
 
 <center>
 
-![profile](img files/java_certificate.png)
+![javaCertificate](img files/java_certificate.png)
 
 </center>
 
@@ -28,7 +28,7 @@ Kurs obejmował również tematy metodyki Scrum.
 
 <center>
 
-![profile](img files/scrum_certificate.jpg)
+![scrumCertificate](https://github.com/sanoczek/porfolio/blob/eff9fbc4d75217ed096f609dcb2a6f991776759f/img%20files/scrum_certificate.jpg)
 
 </center>
 
