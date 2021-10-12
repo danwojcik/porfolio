@@ -46,7 +46,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 ## Zadania, które wykonywałem w czasie kursu:
 <center>
 
-[Podstawy Java](https://github.com/sanoczek/basicJava.git) | [Testowanie Oprogramowania](https://github.com/sanoczek/patternsExamples.git) | [Wzorce Projektowe](Wzorce Projektowe) |
+[Podstawy Java](https://github.com/sanoczek/basicJava.git) | [Testowanie Oprogramowania](Testowanie Oprogramowania) | [Wzorce Projektowe](https://github.com/sanoczek/patternsExamples.git) |
 [JDBC Hibernate](JDBC Hibernate) | [Technologie Frontendowe](Technologie Frontendowe) | [Spring](Spring) |
 [Bazy Danych oraz SQL](Bazy Danych oraz SQL)
 
