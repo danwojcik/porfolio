@@ -5,7 +5,7 @@ Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w 
 
 <center>
 
-![profile](img files/profileFoto.jpeg)
+![profile](https://github.com/sanoczek/porfolio/blob/e1320dc1d01239df9ac01966e483aa3143abf213/img%20files/profileFoto.jpeg)
 
 </center>
 
