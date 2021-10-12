@@ -20,7 +20,7 @@ Chcąc jak nalepiej pryzgotować się do przyszłem pracy w branży IT podjąłe
 
 <center>
 
-![javaCertificate](img files/java_certificate.png)
+
 
 </center>
 
@@ -59,7 +59,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 
 <center>
 
-![profile](img files/technical_skills.png)
+![profile](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/technical_skills.png)
 
 </center>
 
@@ -69,7 +69,7 @@ Programowanie i przygotowanie się do przyszłej pracy zajmowało ostatnio sporo
 
 |  GRY PLANSZOWE |  MAJSTERKOWANIE |   PIŁKA NOŻNA   |
 | :------------: | :-------------: | :-------------: |
-| ![planszówki](img files/planszówki.jpg) | ![majsterkowanie](img files/majsterkowanie.jpg) | ![football](img files/pzpn.jpg) |
+| ![planszówki](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/planszo%CC%81wki.jpg) | ![majsterkowanie](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/majsterkowanie.jpg) | ![football](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/pzpn.jpg) |
 | Myślisz, że świat kończy się na chińczyku i monopoly? W takim razie nigdy nie usiadłeś do mózgożernych eurogier, wciągających przygodówek czy lekkich strategi | Mam więcej śrubokrętów niż żona butów czy kostmetyków, no i nie muszę dzownić po elektryka czy hydraulika | Od lat kibicuję FC Barcelonie i naszej Reprezenacji (może dożyję wielkich sukcesów) |
 
 ## Kontakt
