@@ -1,7 +1,7 @@
 # Daniel Wójcik
 
 ## O mnie
-<div style="text-align: right">Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w świat IT. Chciałbym się podzielić zdobytym dotychczas doświadczeniem i pochwalić się swoimi projektami.</div>
+Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w świat IT. Chciałbym się podzielić zdobytym dotychczas doświadczeniem i pochwalić się swoimi projektami.
 
 <center>
 
