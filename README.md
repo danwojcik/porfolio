@@ -47,7 +47,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 <center>
 
 [Podstawy Java](https://github.com/sanoczek/basicJava.git) | [Testowanie Oprogramowania](Testowanie Oprogramowania) | [Wzorce Projektowe](https://github.com/sanoczek/patternsExamples.git) |
-[JDBC Hibernate](JDBC Hibernate) | [Technologie Frontendowe](Technologie Frontendowe) | [Spring](Spring) |
+[JDBC Hibernate](https://github.com/sanoczek/jdbc.git) | [Technologie Frontendowe](Technologie Frontendowe) | [Spring](Spring) |
 [Bazy Danych oraz SQL](Bazy Danych oraz SQL)
 
 </center>
