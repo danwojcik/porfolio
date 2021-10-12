@@ -5,7 +5,7 @@ Cześć, nazywam się Daniel Wójcik. Po rocznym intensywnym kursie, wchodzę w 
 
 <center>
 
-![profile](portfolio/img files/profileFoto.jpeg)
+![profile](img files/profileFoto.jpeg)
 
 </center>
 
