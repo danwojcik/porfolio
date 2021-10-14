@@ -74,7 +74,7 @@ Programowanie i przygotowanie się do przyszłej pracy zajmowało ostatnio sporo
 
 |  GRY PLANSZOWE |  MAJSTERKOWANIE |   PIŁKA NOŻNA   |
 | :------------: | :-------------: | :-------------: |
-| ![planszówki](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/planszo%CC%81wki.jpg) | ![majsterkowanie](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/majsterkowanie.jpg) | ![football](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/pzpn.jpg) |
+| ![planszówki](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/planszo%CC%81wki.jpg) | ![majsterkowanie](https://github.com/sanoczek/porfolio/blob/3f46830fc8784b7a694051b763517fcf91941b60/img%20files/majsterkowanie.jpg) | ![football](https://github.com/sanoczek/porfolio/blob/2f2ef9339375406ff17e3d2dcf7142c3a5df4d12/img%20files/FCB_PZPN.png) |
 | Myślisz, że świat kończy się na chińczyku i monopoly? W takim razie nigdy nie usiadłeś do mózgożernych eurogier, wciągających przygodówek czy lekkich strategi | Mam więcej śrubokrętów niż żona butów czy kostmetyków, no i nie muszę dzownić po elektryka czy hydraulika | Od lat kibicuję FC Barcelonie i naszej Reprezenacji (może dożyję wielkich sukcesów) |
 
 ## Kontakt
