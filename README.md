@@ -54,11 +54,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 
 ## Moje projekty
 
-* Symulator Mundialu wraz z bukmacherem (comming soon)
-* Gobblety (comming soon)
-* Bitwa o Tortugę (comming soon)
-* Kółko krzyżyk 9X9 (comming soon)
-* Timeline (comming soon)
+* [mKrew](https://github.com/misiubest/MKrew.git) (comming soon)
 
 ## Technologie
 
