@@ -54,7 +54,7 @@ Dowiedziałem się również jak ważne jest by napisany program miał dobrze sk
 
 ## Moje projekty
 
-* [mKrew](https://github.com/misiubest/MKrew.git) (comming soon)
+* [mKrew](https://github.com/mryndak/mKrew)
 
 ## Technologie
 
