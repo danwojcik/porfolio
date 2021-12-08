@@ -75,6 +75,6 @@ Programowanie i przygotowanie się do przyszłej pracy zajmowało ostatnio sporo
 
 ## Kontakt
 
-Skontaktuj się ze mną mailowo: sanoczek@gmail.com
+Skontaktuj się ze mną mailowo: danielwojcik.it@gmail.com
 
 Linkedin: [Daniel Wójcik](http://www.linkedin.com/in/daniel-wójcik-35129a218)
