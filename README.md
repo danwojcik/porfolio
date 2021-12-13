@@ -21,7 +21,8 @@ Chcąc jak nalepiej pryzgotować się do przyszłem pracy w branży IT podjąłe
 
 <center>
 
-
+![javaPodstawy1](https://github.com/danwojcik/porfolio/blob/a4c93b47d3f3b4cf563e8a3dd11ee33f5a25c4cc/img%20files/java_od_podstaw-1.jpg)
+![javaPodstawy2](https://github.com/danwojcik/porfolio/blob/a4c93b47d3f3b4cf563e8a3dd11ee33f5a25c4cc/img%20files/java_od_podstaw-2.jpg)
 
 </center>
 
